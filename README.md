@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bryanbeginly. You can call the The Dark Lord.
+- 👋 Hi, I’m @bryanbeginly. You can call me the The Dark Lord.
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning how to be a better software engineer.
 - 💞️ I’m looking to collaborate on laravel/php/AI enhanced projects.
